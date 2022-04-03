@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-16"?>
+<?xml version="1.0" encoding="UTF-16"?>
 <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
     <Date>2022-03-31T00:04:10.8034502</Date>
     <Author>LAPTOP-D0G1N3DH\Giost</Author>
     <Description>Tenta la connessione automatica alla rete ELIS.org Studenti, ogni volta che viene effettuata un cambio di rete.</Description>
-    <URI>\elisNetManager</URI>
+    <URI>\elisNetAutoLogin</URI>
   </RegistrationInfo>
   <Triggers>
     <EventTrigger>
