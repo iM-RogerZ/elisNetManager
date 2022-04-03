@@ -1,3 +1,5 @@
 {
-  "username": "YOURUSERNAME", "password": "YOURPASSWORD"
+  "_comment": "Modifica le credenziali per accedere alla rete ELIS",
+  "username": "YOURUSERNAME",
+  "password": "YOURPASSWORD"
 }
