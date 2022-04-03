@@ -4,7 +4,7 @@
     <Date>2022-03-31T00:04:10.8034502</Date>
     <Author>LAPTOP-D0G1N3DH\Giost</Author>
     <Description>Tenta la connessione automatica alla rete ELIS.org Studenti, ogni volta che viene effettuata un cambio di rete.</Description>
-    <URI>\elisNetLogger</URI>
+    <URI>\elisNetManager</URI>
   </RegistrationInfo>
   <Triggers>
     <EventTrigger>
