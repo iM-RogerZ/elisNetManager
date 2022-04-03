@@ -8,3 +8,5 @@ Sono necessari i 3 file:
 - elisNetAutoLogin.xml: file XML contenente le informazioni di una Task Windows che funge da trigger. Ogni volta che ci si collega ad una rete, la task windows lancia lo script per l'autoconnessione. Lo script è in grado di capire se la connessione necessita di una utenticazione da gstatic.com, di conseguenza si chiude immediatamente se la rete non è quella elis.
 
 Tutti i file saranno all'interno della cartella C:\Windows\System32\elisNetManager
+
+RICORDA di modificare le credenziali presenti nel file elisNetAutoLoginSettings.json nella cartella C:\Windows\System32\elisNetManager
